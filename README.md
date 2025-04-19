@@ -32,6 +32,14 @@ This project is a business analysis of an ecommerce company's order data using P
 
 ---
 
+![2](https://github.com/user-attachments/assets/6a9837d4-02b1-4acd-908c-3a613bc6de5b)
+
+---
+
+![3](https://github.com/user-attachments/assets/df138348-d91f-4a59-9a86-16f334865892)
+
+---
+
 ## 💼 Skills Demonstrated
 
 - Power BI Data Modeling
