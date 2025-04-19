@@ -28,14 +28,15 @@ This project is a business analysis of an ecommerce company's order data using P
 
 ## 📊 Dashboard Preview
 
+Full Dashboard
 ![1](https://github.com/user-attachments/assets/4240aed4-fc24-4280-8464-792d7867e48d)
 
 ---
-
+Filter by Printer Category
 ![2](https://github.com/user-attachments/assets/6a9837d4-02b1-4acd-908c-3a613bc6de5b)
 
 ---
-
+Filter by a slicer with State as Karnataka
 ![3](https://github.com/user-attachments/assets/df138348-d91f-4a59-9a86-16f334865892)
 
 ---
